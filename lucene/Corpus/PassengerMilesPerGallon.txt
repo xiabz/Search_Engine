@@ -1,0 +1,4 @@
+#998
+passenger miles per gallon
+passenger miles per gallon
+passenger miles per gallon pmpg is a metric to evaluate the energy efficiency of a vehicle or transportation mode the pmpg can be obtained by multiplying the miles per gallon of fuel mpg by either the passenger capacity or the average occupancy the occupancy of personal vehicles is typically lower than capacity by a considerable degree and thus the values computed based on capacity and on occupancy will often be quite different 

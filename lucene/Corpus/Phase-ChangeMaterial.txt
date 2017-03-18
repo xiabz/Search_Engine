@@ -1,0 +1,43 @@
+#131
+phase-change material
+phase-change material
+a phase-change material pcm is a substance with a high heat of fusion which melting and solidifying at a certain temperature is capable of storing and releasing large amounts of energy heat is absorbed or released when the material changes from solid to liquid and vice versa thus pcms are classified as latent heat storage lhs units 
+
+contents
+
+characteristics and classification 
+latent heat storage can be achieved through liquid solid solid liquid solid gas and liquid gas phase changes however only solid liquid and liquid solid phase changes are practical for pcms although liquid gas transitions have a higher heat of transformation than solid liquid transitions liquid gas phase changes are impractical for thermal storage because large volumes or high pressures are required to store the materials in their gas phase solid solid phase changes are typically very slow and have a relatively low heat of transformation 
+initially solid liquid pcms behave like sensible heat storage shs materials their temperature rises as they absorb heat unlike conventional shs materials however when pcms reach the temperature at which they change phase their melting temperature they absorb large amounts of heat at an almost constant temperature the pcm continues to absorb heat without a significant rise in temperature until all the material is transformed to the liquid phase when the ambient temperature around a liquid material falls the pcm solidifies releasing its stored latent heat a large number of pcms are available in any required temperature range from 5 up to 190 c within the human comfort range between 20 30 c some pcms are very effective they store 5 to 14 times more heat per unit volume than conventional storage materials such as water masonry or rock 
+organic pcms 
+paraffin cnh2n 2 and fatty acids ch3 ch2 2ncooh 
+inorganic 
+salt hydrates mnh2o 
+eutectics 
+c-inorganic inorganic-inorganic compounds
+hygroscopic materials 
+many natural building materials are hygroscopic that is they can absorb water condenses and release water water evaporates the process is thus 
+whilst this process liberates a small quantity of energy large surfaces area allows significant 1 2 c heating or cooling in buildings the corresponding materials are wool insulation earth clay render finishes 
+selection criteria 
+thermodynamic properties the phase change material should possess 
+thermophysical properties 
+common pcms 
+volumetric heat capacity vhc j m 3 k 1
+thermal inertia i thermal effusivity e j m 2 k 1 s 1 2
+commercially available pcms near room temperature 
+the above dataset is also available as an excel spreadsheet from ucla engineering
+technology development and encapsulation 
+the most commonly used pcms are salt hydrates fatty acids and esters and various paraffins such as octadecane recently also ionic liquids were investigated as novel pcms 
+as most of the organic solutions are water-free they can be exposed to air but all salt based pcm solutions must be encapsulated to prevent water evaporation or uptake both types offer certain advantages and disadvantages and if they are correctly applied some of the disadvantages becomes an advantage for certain applications 
+they have been used since the late 19th century as a medium for the thermal storage applications they have been used in such diverse applications as refrigerated transportation for rail and road applications and their physical properties are therefore well known 
+unlike the ice storage system however the pcm systems can be used with any conventional water chiller both for a new or alternatively retrofit application the positive temperature phase change allows centrifugal and absorption chillers as well as the conventional reciprocating and screw chiller systems or even lower ambient conditions utilizing a cooling tower or dry cooler for charging the tes system 
+the temperature range offered by the pcm technology provides a new horizon for the building services and refrigeration engineers regarding medium and high temperature energy storage applications the scope of this thermal energy application is wide ranging of solar heating hot water heating rejection i.e cooling tower and dry cooler circuitry thermal energy storage applications 
+since pcms transform between solid liquid in thermal cycling encapsulation naturally become the obvious storage choice 
+as phase change materials perform best in small containers therefore they are usually divided in cells the cells are shallow to reduce static head based on the principle of shallow container geometry the packaging material should conduct heat well and it should be durable enough to withstand frequent changes in the storage material s volume as phase changes occur it should also restrict the passage of water through the walls so the materials will not dry out or water-out if the material is hygroscopic packaging must also resist leakage and corrosion common packaging materials showing chemical compatibility with room temperature pcms include stainless steel polypropylene and polyolefin 
+thermal composites 
+thermal-composites is a term given to combinations of phase change materials pcms and other usually solid structures a simple example is a copper-mesh immersed in a paraffin-wax the copper-mesh within parraffin-wax can be considered a composite material dubbed a thermal-composite such hybrid materials are created to achieve specific overall or bulk properties 
+thermal conductivity is a common property which is targeted for maximisation by creating thermal composites in this case the basic idea is to increase thermal conductivity by adding a highly conducting solid such as the copper-mesh into the relatively low conducting pcm thus increasing overall or bulk thermal conductivity if the pcm is required to flow the solid must be porous such as a mesh 
+solid composites such as fibre-glass or kevlar-pre-preg for the aerospace industry usually refer to a fibre the kevlar or the glass and a matrix the glue which solidifies to hold fibres and provide compressive strength a thermal composite is not so clearly defined but could similarly refer to a matrix solid and the pcm which is of course usually liquid and or solid depending on conditions they are also meant to discover minor elements in the earth 
+applications 
+applications of phase change materials include but are not limited to 
+fire and safety issues 
+some phase change materials are suspended in water and are relatively nontoxic others are hydrocarbons or other flammable materials or are toxic as such pcms must be selected and applied very carefully in accordance with fire and building codes and sound engineering practices because of the increased fire risk flamespread smoke potential for explosion when held in containers and liability it may be wise not to use flammable pcms within residential or other regularly occupied buildings phase change materials are also being used in thermal regulation of electronics 

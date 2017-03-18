@@ -1,0 +1,17 @@
+#893
+building energy simulation
+building energy simulation
+building energy simulation also called building energy modeling or energy modeling in context is the use of software to predict the energy use of a building 
+
+contents
+
+background 
+a typical energy model will have inputs for climate envelope internal gains from lighting equipment and occupants heating cooling and ventilation systems schedules of occupants equipment and lighting energy models will output building energy use predictions in typical end-use categories heating cooling lighting fan plug process in addition to energy units most software includes utility rates input and can predict energy costs 
+energy-savings measures can be calculated using simple spreadsheets and a wide variety of bespoke software applications are available 
+applications 
+accuracy of building simulation 
+there are normally occurring uncertainties in building design and building energy assessment yezioro dong and leite developed an artificial intelligence approach towards assessing building performance simulation results and found that more detailed simulation tools have the best simulation performance in terms of heating and cooling electricity consumption within 3 of mean absolute error 
+standards and practices 
+professional associations and certifications 
+professional associations supporting energy modeling 
+certifications

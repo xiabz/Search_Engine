@@ -1,0 +1,34 @@
+#906
+energy efficiency in europe (study)
+energy efficiency in europe study 
+the energy efficiency in europe study is part of the odyssee project it aims to monitor energy efficiency progress and co2-reduction for the eu-27 countries and norway and croatia understand the energy demand trends for european countries compare the countries in their relative energy efficiency performance as well as to benchmark values measuring the contribution of innovative energy efficiency and renewables technologies to the lisbon targets to make europe more competitive and analyse and evaluate the performance of energy efficiency policies in the different eu member states and at eu level 
+the odyssee mure is a program coordinated by ademe and supported under the intelligent energy europe programme of the european commission 
+energy efficiency is at the heart of the eu s europe 2020 strategy for smart sustainable and inclusive growth and of the transition to a resource efficient economy according to eu commission the eu needs to act now 2011 to get on track to achieve its target while the eu is on course to achieve only half of the 20 objective the combined effects of full implementation of the measures will generate financial savings of up to 1000 per household annually improve europe s industrial competitiveness create up to 2 million jobs and reduce annual greenhouse gas emissions by 740 million tons 
+
+contents
+
+national energy efficiency action plans 
+the national energy efficiency action plan plans offer an opportunity to compare the national energy efficiency measures in the european countries and review the actual national achievements compared to the targets the first energy efficiency action plans neeap 2008 2010 were delivered in 2007 the second plans should cover the plans from 2011 forward 
+neeap 2008 2010 
+the action plan reports state the status in 2000 2005 and give the national policies and measures to energy savings by the national governments by sectors by 2016 and 2020 
+the british plan sets a target that all new buildings will be zero-carbon from 2011 in wales and make all homes in england zero carbon by 2016 
+according to the german plan energy efficiency constitutes a key competitive factor greater security of supply of the exhaustible energy sources and the most effective means from the point of view of costs of reducing greenhouse gas emissions the german target by 2020 is energy productivity double compared with 1990 
+austria 6 2007 bulgaria 6 2007 cyprus 6 2007 denmark 9 2005 estonia 11 2007 france 2 2008 finland 7 2007 germany 9 2007 greece 6 2008 hungary 2 2008 ireland italy 7 2007 latvia 2008 luxembourg 2007 malta 10 2007 netherlands 9 2007 poland 6 2007 romania 2007 spain a short newsletter june 2007 sweden 2 2008 and uk 2007 
+background 
+the energy efficiency in europe study gathers representatives such as energy agencies from the 28 eu member states plus norway and it aims at monitoring energy efficiency trends and policy measures in europe the energy databases are managed by enerdata which updates the odyssee database twice by year odysse measures the energy efficiency progress by main sector industry transport households and for the whole economy all final consumers mure is a database on policy measures this project is part of the activity of the enr club 
+the following representative partners in each european country are 
+energy efficiency in europe highlights and figures by sector 
+energy efficiency in the eu-27 improved by about 13 between 1996 and 2007 corresponding to 160 mtoe energy savings in 2007 
+industry 
+energy efficiency improved by about 2.1 year since 1990 each branches except textile contributed to decrease the overall industrial efficiency index since 1998 structural changes towards less energy-intensive branches now strengthen the influence of efficiency improvements on actual energy intensity in industry however the impact of these structural changes is limited they explain about 13 of the reduction in the industrial intensity since 1998 the situation is meanwhile different in countries structural changes explain a high share of the reduction in 5 countries hungary czech republic romania sweden ireland 
+households 
+in households energy efficiency improved by 1.1 year since 1990 space heating and large appliances experienced the greatest energy efficiency improvement since 1990 close to 1.5 year each 
+transport 
+energy efficiency improved by 0,8 year since 1990 the specific consumption of cars in liters 100 km is regularly decreasing -0.9 year since 1990 with a more rapidly improvements for new cars since 1995 -1.6 year however part of this gain is offset by a shift to larger cars for road goods transport the energy consumption per ton-km has decreased regularly since 1993 because of a better management increase in ton-km veh except from 1998 to 2002 
+energy efficiency indicators objectives and methodology 
+according to enerdata energy efficiency indicators can be used to make several types of analysis 
+the energy intensity indicator is the most often used indicator to measure the energy efficiency it is calculated per unit of gdp for the overall indicator and transports or value added for services and agriculture or private consumption for households however the odex index represents a better proxy for assessing energy efficiency trends at an aggregate level e.g overall economy industry households transport services than the traditional energy intensities as they are cleaned from structural changes and from other factors not related to energy efficiency more appliances more cars 
+the odex index is used in the odyssee-mure project to measure the progress of energy efficiency by main sector industry transport households and for the whole economy all final consumers for each sector the index is calculated as a weighted average of sub-sectoral indices of energy efficiency progress sub-sectors being industrial or service sector branches or end-uses for households or transport modes 
+the sub-sectoral indices are calculated from variations of unit energy consumption indicators measured in physical units and selected so as to provide the best proxy of energy efficiency progress from a policy evaluation viewpoint the fact that indices are used enables to combine different units for a given sector for instance for households kwh appliance koe m2 tep dwelling 
+the weight used to get the weighted aggregate is the share of each sub sector in the total energy consumption of the sub sectors considered in the calculation 
+a value of odex equal to 90 means a 10 energy efficiency gain 

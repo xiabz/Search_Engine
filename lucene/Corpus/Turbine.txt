@@ -1,0 +1,50 @@
+#116
+turbine
+turbine
+a turbine from the latin turbo a vortex related to the greek tyrb meaning turbulence is a rotary mechanical device that extracts energy from a fluid flow and converts it into useful work the work produced by a turbine can be used for generating electrical power when combined with a generator or producing thrust as in the case of jet engines a turbine is a turbomachine with at least one moving part called a rotor assembly which is a shaft or drum with blades attached moving fluid acts on the blades so that they move and impart rotational energy to the rotor early turbine examples are windmills and waterwheels 
+gas steam and water turbines have a casing around the blades that contains and controls the working fluid credit for invention of the steam turbine is given both to british engineer sir charles parsons 1854 1931 for invention of the reaction turbine and to swedish engineer gustaf de laval 1845 1913 for invention of the impulse turbine modern steam turbines frequently employ both reaction and impulse in the same unit typically varying the degree of reaction and impulse from the blade root to its periphery 
+the word turbine was coined in 1822 by the french mining engineer claude burdin from the latin turbo or vortex in a memo des turbines hydrauliques ou machines rotatoires grande vitesse which he submitted to the acad mie royale des sciences in paris benoit fourneyron a former student of claude burdin built the first practical water turbine 
+
+contents
+
+ operation theory 
+a working fluid contains potential energy pressure head and kinetic energy velocity head the fluid may be compressible or incompressible several physical principles are employed by turbines to collect this energy 
+impulse turbines change the direction of flow of a high velocity fluid or gas jet the resulting impulse spins the turbine and leaves the fluid flow with diminished kinetic energy there is no pressure change of the fluid or gas in the turbine blades the moving blades as in the case of a steam or gas turbine all the pressure drop takes place in the stationary blades the nozzles before reaching the turbine the fluid s pressure head is changed to velocity head by accelerating the fluid with a nozzle pelton wheels and de laval turbines use this process exclusively impulse turbines do not require a pressure casement around the rotor since the fluid jet is created by the nozzle prior to reaching the blades on the rotor newton s second law describes the transfer of energy for impulse turbines impulse turbines are most efficient for use in cases where the flow is low and the inlet pressure is high 
+reaction turbines develop torque by reacting to the gas or fluid s pressure or mass the pressure of the gas or fluid changes as it passes through the turbine rotor blades a pressure casement is needed to contain the working fluid as it acts on the turbine stage s or the turbine must be fully immersed in the fluid flow such as with wind turbines the casing contains and directs the working fluid and for water turbines maintains the suction imparted by the draft tube francis turbines and most steam turbines use this concept for compressible working fluids multiple turbine stages are usually used to harness the expanding gas efficiently newton s third law describes the transfer of energy for reaction turbines reaction turbines are better suited to higher flow velocities or applications where the fluid head upstream pressure is low 
+in the case of steam turbines such as would be used for marine applications or for land-based electricity generation a parsons type reaction turbine would require approximately double the number of blade rows as a de laval type impulse turbine for the same degree of thermal energy conversion whilst this makes the parsons turbine much longer and heavier the overall efficiency of a reaction turbine is slightly higher than the equivalent impulse turbine for the same thermal energy conversion 
+in practice modern turbine designs use both reaction and impulse concepts to varying degrees whenever possible wind turbines use an airfoil to generate a reaction lift from the moving fluid and impart it to the rotor wind turbines also gain some energy from the impulse of the wind by deflecting it at an angle turbines with multiple stages may utilize either reaction or impulse blading at high pressure steam turbines were traditionally more impulse but continue to move towards reaction designs similar to those used in gas turbines at low pressure the operating fluid medium expands in volume for small reductions in pressure under these conditions blading becomes strictly a reaction type design with the base of the blade solely impulse the reason is due to the effect of the rotation speed for each blade as the volume increases the blade height increases and the base of the blade spins at a slower speed relative to the tip this change in speed forces a designer to change from impulse at the base to a high reaction style tip 
+classical turbine design methods were developed in the mid 19th century vector analysis related the fluid flow with turbine shape and rotation graphical calculation methods were used at first formulae for the basic dimensions of turbine parts are well documented and a highly efficient machine can be reliably designed for any fluid flow condition some of the calculations are empirical or rule of thumb formulae and others are based on classical mechanics as with most engineering calculations simplifying assumptions were made 
+velocity triangles can be used to calculate the basic performance of a turbine stage gas exits the stationary turbine nozzle guide vanes at absolute velocity va1 the rotor rotates at velocity u relative to the rotor the velocity of the gas as it impinges on the rotor entrance is vr1 the gas is turned by the rotor and exits relative to the rotor at velocity vr2 however in absolute terms the rotor exit velocity is va2 the velocity triangles are constructed using these various velocity vectors velocity triangles can be constructed at any section through the blading for example hub tip midsection and so on but are usually shown at the mean stage radius mean performance for the stage can be calculated from the velocity triangles at this radius using the euler equation 
+hence 
+where 
+the turbine pressure ratio is a function of 
+
+
+
+
+
+
+ 
+h
+
+t
+
+
+
+
+ displaystyle frac delta h t 
+
+ and the turbine efficiency 
+modern turbine design carries the calculations further computational fluid dynamics dispenses with many of the simplifying assumptions used to derive classical formulas and computer software facilitates optimization these tools have led to steady improvements in turbine design over the last forty years 
+the primary numerical classification of a turbine is its specific speed this number describes the speed of the turbine at its maximum efficiency with respect to the power and flow rate the specific speed is derived to be independent of turbine size given the fluid flow conditions and the desired shaft output speed the specific speed can be calculated and an appropriate turbine design selected 
+the specific speed along with some fundamental formulas can be used to reliably scale an existing design of known performance to a new size with corresponding performance 
+off-design performance is normally displayed as a turbine map or characteristic 
+types 
+uses 
+almost all electrical power on earth is generated with a turbine of some type very high efficiency steam turbines harness around 40 of the thermal energy with the rest exhausted as waste heat 
+most jet engines rely on turbines to supply mechanical work from their working fluid and fuel as do all nuclear ships and power plants 
+turbines are often part of a larger machine a gas turbine for example may refer to an internal combustion machine that contains a turbine ducts compressor combustor heat-exchanger fan and in the case of one designed to produce electricity an alternator combustion turbines and steam turbines may be connected to machinery such as pumps and compressors or may be used for propulsion of ships usually through an intermediate gearbox to reduce rotary speed 
+reciprocating piston engines such as aircraft engines can use a turbine powered by their exhaust to drive an intake-air compressor a configuration known as a turbocharger turbine supercharger or colloquially a turbo 
+turbines can have very high power density i.e the ratio of power to weight or power to volume this is because of their ability to operate at very high speeds the space shuttle main engines used turbopumps machines consisting of a pump driven by a turbine engine to feed the propellants liquid oxygen and liquid hydrogen into the engine s combustion chamber the liquid hydrogen turbopump is slightly larger than an automobile engine weighing approximately 700 lb and produces nearly 70,000 hp 52.2 mw 
+turboexpanders are widely used as sources of refrigeration in industrial processes 
+military jet engines as a branch of gas turbines have recently been used as primary flight controller in post-stall flight using jet deflections that are also called thrust vectoring the u.s federal aviation administration has also conducted a study about civilizing such thrust vectoring systems to recover jetliners from catastrophes 

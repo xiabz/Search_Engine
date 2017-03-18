@@ -1,0 +1,16 @@
+#115
+metre per second
+metre per second
+metre per second american english meter per second is an si derived unit of both speed scalar and velocity vector quantity which specifies both magnitude and a specific direction defined by distance in metres divided by time in seconds 
+the si unit symbols are m s 1 m s 1 m s or m s sometimes unofficially abbreviated as mps where metres per second are several orders of magnitude too slow to be convenient such as in astronomical measurements velocities may be given in kilometres per second where 1 km s is 1000 metres per second sometimes unofficially abbreviated as kps 
+
+contents
+
+conversions 
+1 m s is equivalent to 
+1 foot per second 0.3048 m s exactly 
+1 mile per hour 0.44704 m s exactly 
+1 km h 0.27 m s exactly 
+1 kilometre per second is equivalent to 
+relation to other measures 
+the benz named in honour of karl benz has been proposed as a name for one metre per second although it has seen some support as a practical unit primarily from german sources it was rejected as the si unit of velocity and has not seen widespread use or acceptance 

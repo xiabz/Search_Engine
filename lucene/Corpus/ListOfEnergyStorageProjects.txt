@@ -1,0 +1,17 @@
+#367
+list of energy storage projects
+list of energy storage projects
+this is a list of energy storage projects worldwide many individual energy storage projects augment electrical grids by capturing excess electrical energy during periods of low demand and storing it in other forms until needed on an electrical grid the energy is later converted back to its electrical form and returned to the grid as needed 
+another energy storage method is the consumption of surplus or low-cost energy typically during night time for conversion into resources such as hot water cool water or ice which is then used for heating or cooling at other times when electricity is in higher demand and at greater cost per kilowatt hour kwh such thermal energy storage is often employed at end-user sites such as large buildings and also as part of district heating thus shifting energy consumption to other times for better balancing of supply and demand 
+some notable energy storage projects include sir adam beck hydroelectric generating stations bear swamp hydroelectric power station seneca pumped storage generating station salina pumped storage project carters dam smith mountain dam and matanoagawa dam 
+
+contents
+
+system types 
+forms of energy storage 
+mechanical 
+thermal 
+chemical 
+electromagnetic 
+projects and sites 
+listing 

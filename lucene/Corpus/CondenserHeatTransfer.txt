@@ -1,0 +1,19 @@
+#723
+condenser (heat transfer)
+condenser heat transfer 
+in systems involving heat transfer a condenser is a device or unit used to condense a substance from its gaseous to its liquid state by cooling it in so doing the latent heat is given up by the substance and will transfer to the condenser coolant condensers are typically heat exchangers which have various designs and come in many sizes ranging from rather small hand-held to very large industrial-scale units used in plant processes for example a refrigerator uses a condenser to get rid of heat extracted from the interior of the unit to the outside air condensers are used in air conditioning industrial chemical processes such as distillation steam power plants and other heat-exchange systems use of cooling water or surrounding air as the coolant is common in many condensers 
+contents
+
+examples of condensers 
+other types of condensers
+in the world of heating ventilation and air conditioning hvac condensers happen to be a topic of great importance instead of confusing information the goal is to provide some basic information on the different types of condensers and their applications 
+there are three other condensers used in hvac systems
+applications 
+ most common uses for this condenser are domestic refrigerators upright freezers and in residential packaged air conditioning units a great feature of the air cooled condenser is they are very easy to clean since dirt can cause serious issues with the condensers performance it is highly recommended that these be kept clear of dirt 
+ they also require a cooling tower to conserve water to prevent corrosion and the forming of algae water cooled condensers require a constant supply of makeup water along with water treatment 
+ depending on the application you can choose from tube in tube shell and coil or shell and tube condensers all are essentially made to produce the same outcome but each in a different way 
+ typically these are used in large commercial air-conditioning units although effective they are not necessarily the most efficient 
+ prior to beginning your install make sure you choose a condenser that will provide you with the most efficient use 
+equation 
+for an ideal single-pass condenser whose coolant has constant density constant heat capacity linear enthalpy over the temperature range perfect cross-sectional heat transfer and zero longitudinal heat transfer and whose tubing has constant perimeter constant thickness and constant heat conductivity and whose condensible fluid is perfectly mixed and at constant temperature the coolant temperature varies along its tube according to 
+where 
